@@ -1,0 +1,25 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "follow-redirects": "^1.13.2",
+    "fs-extra": "^8.1.0",
+    "jquery": "^3.5.1",
+    "twitch": "^4.4.11",
+    "twitch-auth": "^4.4.11",
+    "twitch-chat-client": "^4.4.11",
+    "twitch-js": "^2.0.0-beta.42",
+    "twitch-pubsub-client": "^4.4.11",
+    "twitchps": "^1.6.0",
+    "xhr": "^2.6.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
